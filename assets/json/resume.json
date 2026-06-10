@@ -19,7 +19,7 @@
       "supervisor": "Cindy Poo and Michael Buice",
       "location": "Seattle, WA",
       "startDate": "2024-06",
-      "endDate": "",
+      "endDate": "2026-06",
       "highlights": [
         "Designed neural network architecture incorporating reinforcement learning for decision making under uncertainty, outperforming baseline models.",
         "Used cloud computing and GPU acceleration to train deep learning models on large datasets.",
@@ -104,11 +104,11 @@
   ],
   "publications": [
     {
-      "name": "Factorized Value Iteration Network for Decision Making under Mixed Observability.”",
-      "publisher": "Association for the Advancement of Artificial Intelligence",
-      "releaseDate": "2025-04-",
-      "url": "https://aair-lab.github.io/genplan25/papers/20.pdf",
-      "summary": "In this paper, we show how Value Iteration with Value of Information Networks can take advantage of mixed observability in planning problems by factorizing the belief space."
+      "name": "Information Based Value Iteration Netowrks for Decision Making Under Uncertainty",
+      "publisher": "International Conference on Learning Representations",
+      "releaseDate": "2026-04",
+      "url": "  https://openreview.net/pdf?id=if1Ndb6RWD",
+      "summary": "In this paper, we show how Value Iteration with Value of Information Networks can take advantage solve problems with varying levels of uncertainty by reducing the belief space"
     }
   ],
   "skills": [

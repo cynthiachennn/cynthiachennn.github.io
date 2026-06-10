@@ -25,8 +25,9 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-Currently a Postbac Fellow at the [Allen Insitute](https://alleninstitute.org), using deep neural networks to research the representation of belief during decision making tasks in our complex and ever-changing world.
+Just completed my tenure as a Postbac Fellow at the [Allen Insitute](https://alleninstitute.org). Interested in pursuing a PhD investigating decision making in intelligent agents.
+<!-- working on deep neural networks to research the representation of belief during decision making tasks in our complex and ever-changing world. -->  
 
-A big fan of making and consuming art. 
+A big fan of making and consuming art <!-- link to sooupstain when its done --> . 
 
 See what I'm doing [now](now).
