@@ -37,23 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-finger-flex-classification-for-bcis",
+        },{id: "projects-finger-flex-classification-for-bcis",
           title: 'Finger Flex classification for BCIs',
           description: "Deep Neural Networks for the classification of finger flex movements for BCI applications",
           section: "Projects",handler: () => {
@@ -94,7 +78,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("//feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',

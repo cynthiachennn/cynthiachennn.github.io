@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cynthiachennn.github.io//sitemap.xml
+Sitemap: https://cynthiachennn.github.io/sitemap.xml
