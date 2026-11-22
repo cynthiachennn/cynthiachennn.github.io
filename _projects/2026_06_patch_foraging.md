@@ -4,6 +4,7 @@ title: Normative Modeling of Patch Forgaging Behavior
 category: work
 description: Normative models that incorportate uncertainty explain observed deviations from optimal strategies in patch forgaging behavioral pardigm.
 img: assets/img/postbac_foraging_poster.jpg
+date: 2026-06-01
 ---
 
 # abstract:
